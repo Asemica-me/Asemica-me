@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lucreziapograri/lucreziapograri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucrezia, a 26-year-old student based in Italy, with a passion for Art History and Digital Humanities 🎨💻
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I have an academic background in Art History and I'm currently studying [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna.
+- 💡 I'm enthusiastic about crafting IT projects, merging my love for art and technology.
+
+### Current Focus
+
+- 🔭 Currently focused on refining my skills in both back-end and front-end development.
+- 🌱 Learning and exploring new aspects of Digital Humanities and how it intersects with technology.
+
+### Get in Touch
+
+- 📧 Feel free to reach out to me at lucrezia.pograri@studio.unibo.it.
+- 📫For a quick response, you can DM me on [Instagram](https://www.instagram.com/lu.adieu/). 
+<!-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername). -->
+
+#
+
+Let's create something meaningful together! 💡🚀
+
+✨✨✨
