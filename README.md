@@ -20,6 +20,4 @@ I'm Lucrezia, a 26-year-old student based in Italy, with a passion for Art Histo
 
 #
 
-Let's create something meaningful together! 💡🚀
-
 ✨✨✨
