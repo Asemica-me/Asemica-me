@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lucrezia, a 26-year-old student based in Italy, with a passion for Art History and Digital Humanities 🎨💻
+My name is Lucrezia and I'm a student based in Italy, with a passion for Art History and Digital Humanities 🎨💻
 
 ### About Me
 
