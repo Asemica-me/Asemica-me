@@ -10,7 +10,7 @@ My name is Lucrezia and I'm a student based in Italy, with a passion for Art His
 ### Current Focus
 
 - 🔭 Currently focused on refining my skills in both back-end and front-end development.
-- 🌱 Learning and exploring new aspects of Digital Humanities and how it intersects with technology.
+- 🌱 Learning and exploring new aspects of Digital Humanities and how cultural heritage can intersect with technology.
 
 ### Get in Touch
 
