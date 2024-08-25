@@ -1,4 +1,4 @@
-## Ciao Hello 👋
+## Hello Ciao 👋
 
 My name is Lucrezia and I'm a student based in Italy, with a passion for Art History and Digital Humanities 🎨💻
 
