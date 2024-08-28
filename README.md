@@ -15,8 +15,7 @@ My name is Lucrezia and I'm a student based in Italy, with a passion for Art His
 ### Get in Touch
 
 - 📧 Feel free to reach out to me at lucrezia.pograri@studio.unibo.it.
-- 📫For a quick response, you can DM me on [Instagram](https://www.instagram.com/lu.adieu/). 
-<!-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername). -->
+<!-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/). -->
 
 #
 
