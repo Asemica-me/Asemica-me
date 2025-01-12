@@ -12,7 +12,11 @@ My name is Lucrezia and I'm a student based in Italy, with a passion for Art His
 ### Programming Languages & Technologies
 <details>
   <summary>⚙️ Toolkit</summary>
+  <br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asemica-me&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 <h3>🛠️ Coding</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
