@@ -43,7 +43,9 @@ My name is Lucrezia and I'm a student based in Italy, with a passion for Art His
 </details>
 
 <h3>Projects Portfolio</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;🧩 The portfolio of my academic projects is available for consultation [here](#).
+
+🧩 The portfolio of my academic projects is available for consultation [here](https://github.com/Asemica-me/dhdk-personal-portfolio).
+
 
 ---
 
