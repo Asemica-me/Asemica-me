@@ -21,6 +21,9 @@ My name is Lucrezia and I'm a student based in Italy, with a passion for Art His
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/LangChain-1F2A7F?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHBhdGggZD0iTTUwIDAgQzIyLjQzIDAgMCAyMi40MyAwIDUwczIyLjQzIDUwIDUwIDUwIDUwLTIyLjQzIDUwLTUwUzc3LjU3IDAgNTAgMHptMCA5MGMtMjIuMDkgMC00MC0xNy45MS00MC00MCAwLTIyLjA5IDE3LjkxLTQwIDQwLTQwIDIyLjA5IDAgNDAgMTcuOTEgNDAgNDAgMCAyMi4wOS0xNy45MSA0MC00MCA0MHoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNNTAgMTMuNzVjLTIwLjE1IDAtMzYuMjUgMTYuMS0zNi4yNSAzNi4yNSAwIDIuMjMuMjI0IDQuNDUuNjY0IDYuNTI1IDEuMTI1IDQuNzYgNC4xMjUgOC44OTUgOC41MjUgMTEuNTI1IDMuNzYgMi4yMyA4LjM1IDIuOTYgMTIuNzUgMi4xMjUgMi4yMy0uNDQ1IDQuNDYtLjY2NSA2LjY5LS42NjUgMTkuOTUgMCAzNi4yNS0xNi4zIDM2LjI1LTM2LjI1UzY5Ljk1IDEzLjc1IDUwIDEzLjc1em0tLjAwNSA2My4yNWMtMTcuOTUgMC0zMi41LTE0LjU1LTMyLjUtMzIuNSAwLTE3Ljk1IDE0LjU1LTMyLjUgMzIuNS0zMi41IDE3Ljk1IDAgMzIuNSAxNC41NSAzMi41IDMyLjUgMCAxNy45NS0xNC41NSAzMi41LTMyLjUgMzIuNXoiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNNTAuMDA1IDM3LjVjLTcuMDYgMC0xMy4wNSAzLjI1LTE3LjE1IDguMzI1IDMuNzYgMi4yMyA4LjM1IDIuOTYgMTIuNzUgMi4xMjUgMi4yMy0uNDQ1IDQuNDYtLjY2NSA2LjY5LS42NjUgNy4wNiAwIDEzLjA1IDMuMjUgMTcuMTUgOC4zMjUtMy43NiAyLjIzLTguMzUgMi45Ni0xMi43NSAyLjEyNS0yLjIzLS40NDUtNC40Ni0uNjY1LTYuNjktLjY2NXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white" alt="Matplotlib"/>
+
 </p>
 
 <h3>🌐 Web Technologies</h3>
