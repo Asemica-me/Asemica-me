@@ -71,7 +71,7 @@
   </a>
     </td>
     <td>
-      <b><h3>Projects Portfolio</h3></b>The portfolio of my academic projects is available for consultation here.
+      <b><h3>Projects Portfolio</h3></b>Take a look at the portfolio of my academic projects here.
     </td>
   </tr>
 </table>
