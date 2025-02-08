@@ -1,17 +1,25 @@
-## Hello Ciao 👋
+<h1 align="center">Hello Ciao 👋</h1>
 
-My name is Lucrezia and I'm a student based in Italy, with a passion for Art History and Digital Humanities 🎨💻
+<p align="center">My name is Lucrezia and I'm a student based in Italy, with a passion for Art History and Digital Humanities 🎨💻<p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1nd3BhdXl2YXR5YTZydXljMjRscGkzYWhoYXFkZ2tpOWhkajQ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xByFvrI1MQvtlDO/giphy.gif" width="400">
+</p>
+
+
 
 ### About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;📚 I have an academic background in Art History and I'm currently studying [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna.  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 I have an academic background in Art History & Performing Arts.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;📚 I am studying [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna.  
 &nbsp;&nbsp;&nbsp;&nbsp;💡 Currently focused on refining my skills in both back-end and front-end development.  
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 Learning and exploring new aspects of Digital Humanities and how cultural heritage can intersect with technology.
+&nbsp;&nbsp;&nbsp;&nbsp;🧩 Learning and exploring new aspects of Digital Humanities and how cultural heritage can intersect with technology.
 
+<br>
 
-### Programming Languages & Technologies
+## Programming Languages & Technologies
 <details>
-  <summary>⚙️ Toolkit</summary>
+  <summary><h3>⚙️ Toolkit</h3></summary>
   <br><br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asemica-me&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,26 +57,35 @@ My name is Lucrezia and I'm a student based in Italy, with a passion for Art His
 
 </details>
 
-<h3>Projects Portfolio</h3>
-
-🧩 The portfolio of my academic projects is available for consultation [here](https://github.com/Asemica-me/dhdk-personal-portfolio).
-
 
 ---
 
-## Get in touch
-📬 Reach out to me at [ateossg5@gmail.com](mailto:ateossg5@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Asemica-me/dhdk-personal-portfolio">
+    <img src="https://img.shields.io/badge/Visit-blue?style=for-the-badge">
+  </a>
+    </td>
+    <td>
+      <b><h3>Projects Portfolio</h3></b>The portfolio of my academic projects is available for consultation here.
+    </td>
+  </tr>
+</table>
 
-<p align="left">
+---
+<br>
+
+📬 Reach out to me at [ateossg5@gmail.com](mailto:ateossg5@gmail.com) or find me on  
   <a href="[https://www.linkedin.com](https://www.linkedin.com/in/lucrezia-pograri-7a056b24a/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!--  <a href="https://orcid.org/" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a> -->
-</p>
 
 
 #
 
 ✨✨✨
+
