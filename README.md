@@ -79,10 +79,7 @@
 ---
 <br>
 
-📬 Reach out to me at [ateossg5@gmail.com](mailto:ateossg5@gmail.com) or find me on  
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/lucrezia-pograri-7a056b24a/)/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+📬 Reach out to me at [ateossg5@gmail.com](mailto:ateossg5@gmail.com)
 <!--  <a href="https://orcid.org/" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a> -->
