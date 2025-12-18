@@ -1,6 +1,6 @@
 <h2 align="center">hello ciao!</h1>
 
-<p align="center">My name is Lucrezia and I'm a student based in Italy, with a passion for Art History and Digital Humanities 🎨💻<p>
+<p align="center">My name is Lucrezia and I'm a student based in Italy, passionate about Art History and Digital Humanities 🎨💻<p>
 
 ### About Me
 
