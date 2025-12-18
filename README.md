@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<h3>🧠 Knowledge Representation & Reasoning</h3>
+<h3>🧠 Knowledge Representation & Semantic Web</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/RDF-1F2A7F?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RDF"/>
   <img src="https://img.shields.io/badge/SPARQL-006699?style=for-the-badge&logo=semanticweb&logoColor=white" alt="SPARQL"/>
