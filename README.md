@@ -1,24 +1,19 @@
-<h1 align="center">Hello Ciao 👋</h1>
+<h2 align="center">hello ciao!</h1>
 
 <p align="center">My name is Lucrezia and I'm a student based in Italy, with a passion for Art History and Digital Humanities 🎨💻<p>
 
+### About Me
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 I hold an M.A. in [Digital Humanities](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) from the University of Bologna, with a background in Art History & Performing Arts.  
+&nbsp;&nbsp;&nbsp;&nbsp;💡 Currently focused on refining my skills in software development.  
+&nbsp;&nbsp;&nbsp;&nbsp;🧩 Learning and exploring new aspects of computational methods and how cultural heritage can intersect with technology.
+
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1nd3BhdXl2YXR5YTZydXljMjRscGkzYWhoYXFkZ2tpOWhkajQ3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xByFvrI1MQvtlDO/giphy.gif" width="400">
-<h6 align="center"><i>
-  The Quentin Tarantino vibe I bring to the function</i>
+  <img src="img/corvax.gif" alt="Clever Muzzy Corvax">
+<h6 align="center"><i>↑ A more authentic take on me ↑</i>
 </h6>
 </p>
 
-
-
-### About Me
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 I have an academic background in Art History & Performing Arts.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;📚 I am studying [Digital Humanities and Digital Knowledge](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) at the University of Bologna.  
-&nbsp;&nbsp;&nbsp;&nbsp;💡 Currently focused on refining my skills in both back-end and front-end development.  
-&nbsp;&nbsp;&nbsp;&nbsp;🧩 Learning and exploring new aspects of Digital Humanities and how cultural heritage can intersect with technology.
-
-<br>
 
 ## Programming Languages & Technologies
 <details>
