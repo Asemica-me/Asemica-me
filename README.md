@@ -20,7 +20,11 @@
   <summary><h3>⚙️ Toolkit</h3></summary>
   <br><br>
 
-[![Top Langs](https://github-readme-stats-nine-delta-18.vercel.app/api/top-langs/?username=Asemica-me&layout=donut-vertical&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-nine-delta-18.vercel.app/api/top-langs/?username=Asemica-me&layout=donut-vertical&theme=default&hide_border=true" alt="Top Langs">
+  </a>
+</p>
 
 <br>
 <h3>🛠️ Coding</h3>
