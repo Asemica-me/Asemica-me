@@ -19,8 +19,8 @@
 <details>
   <summary><h3>⚙️ Toolkit</h3></summary>
   <br><br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asemica-me&layout=donut-vertical&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-nine-delta-18.vercel.app/api/top-langs/?username=Asemica-me&layout=donut-vertical&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <h3>🛠️ Coding</h3>
