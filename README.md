@@ -4,8 +4,7 @@
 
 ### About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 I hold an M.A. in [Digital Humanities](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) from the University of Bologna, with a background in Art History & Performing Arts.  
-&nbsp;&nbsp;&nbsp;&nbsp;💡 Currently focused on refining my skills in software development.  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 Graduated in [Digital Humanities](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) from the University of Bologna, with a background in Art History and Performing Arts.  
 &nbsp;&nbsp;&nbsp;&nbsp;🧩 Learning and exploring new aspects of computational methods and how cultural heritage can intersect with technology.
 
 <p align="center">
